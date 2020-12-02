@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+### Cade Conklin
 
-You can use the [editor on GitHub](https://github.com/cade-conklin/cade-conklin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About me
 
 ```markdown
-Syntax highlighted code block
+Senior at Oregon State University. Majoring in Computer Science with a Minor in Business Entrepreneurship. My favorite aspect of Software Engineering is the learning that extends beyond a job. Having the ability to deliver well-tested products to customers and pursue interesting projects outside of work is what makes SWE unique. Using Natural Langauge Processing and Regular Expressions, I created a Twitter Bot that turned tweets into Madlibs. Outside of work, I am probably the biggest Portland Trail Blazers fan you will meet! 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Projects
+## Pothole Detection App
+[Pothole Detection Application](https://github.com/cade-conklin/Pothole-Detection)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cade-conklin/cade-conklin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Mad Libs Twitter Bot
+[Mad Libs Twitter Bot](https://github.com/cade-conklin/mad-libs-twitter)
 
-### Support or Contact
+## Space Race: Electric Boogaloo (iPhone App)
+[Space Race: Electric Boogaloo](https://github.com/conklica/SpaceRace)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Links
+## LinkedIn
+[Cade Conklin on LinkedIn](https://www.linkedin.com/in/cade-conklin-b84000152/)
+
+## Personal Github
+[cade-conklin on Github](https://github.com/cade-conklin)
+
+### Contact Me
+Email: conklincade@gmail.com
