@@ -10,25 +10,30 @@ probably the biggest Portland Trail Blazers fan you will meet!
 ```
 
 
-# Projects
-## Pothole Detection App
+## Projects
+# Pothole Detection App
 [Pothole Detection Application](https://github.com/cade-conklin/Pothole-Detection)
 
-## Mad Libs Twitter Bot
+# Mad Libs Twitter Bot
 [Mad Libs Twitter Bot](https://github.com/cade-conklin/mad-libs-twitter)
 
-## Space Race: Electric Boogaloo (iPhone App)
+# Space Race: Electric Boogaloo (iPhone App)
 [Space Race: Electric Boogaloo](https://github.com/conklica/SpaceRace)
 
-## Basketball Cards
+# Basketball Cards
 [React App for Basketball Cards](https://github.com/cade-conklin/basketball-cards)
 
-# Links
+
+
+## Links
 ## LinkedIn
 [Cade Conklin on LinkedIn](https://www.linkedin.com/in/cade-conklin-b84000152/)
 
-## Personal Github
+# Personal Github
 [cade-conklin on Github](https://github.com/cade-conklin)
+
+
+
 
 ### Contact Me
 Email: conklincade@gmail.com
