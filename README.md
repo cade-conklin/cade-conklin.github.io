@@ -1,7 +1,7 @@
 ### Cade Conklin
 
 
-### About me
+# About me
 
 ```markdown
 Senior at Oregon State University. Majoring in Computer Science with a Minor in Business Entrepreneurship. My favorite aspect of Software Engineering is the \n  learning that extends beyond a job. Having the ability to deliver well-tested products to customers and pursue interesting projects outside of work is what makes\n  SWE unique. Using Natural Langauge Processing and Regular Expressions, I created a Twitter Bot that turned tweets into Madlibs. Outside of work, I am \n
@@ -10,7 +10,7 @@ probably the biggest Portland Trail Blazers fan you will meet!
 ```
 
 
-### Projects
+# Projects
 ## Pothole Detection App
 [Pothole Detection Application](https://github.com/cade-conklin/Pothole-Detection)
 
@@ -20,7 +20,10 @@ probably the biggest Portland Trail Blazers fan you will meet!
 ## Space Race: Electric Boogaloo (iPhone App)
 [Space Race: Electric Boogaloo](https://github.com/conklica/SpaceRace)
 
-### Links
+## Basketball Cards
+[React App for Basketball Cards](https://github.com/cade-conklin/basketball-cards)
+
+# Links
 ## LinkedIn
 [Cade Conklin on LinkedIn](https://www.linkedin.com/in/cade-conklin-b84000152/)
 
